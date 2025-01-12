@@ -1,0 +1,15 @@
+final List<Map<String, dynamic>> getActions = [
+  {'text': 'Breathing Exercise', 'time': 2, 'timeunit': 'min'},
+  {'text': 'YOGA Class', 'time': 15, 'timeunit': 'min'},
+  {'text': 'Guided Meditation', 'time': 30, 'timeunit': 's'},
+  {'text': 'Stretching Routine', 'time': 10, 'timeunit': 'min'},
+  {'text': 'Morning Run', 'time': 30, 'timeunit': 'min'},
+  {'text': 'Strength Training', 'time': 45, 'timeunit': 'min'},
+  {'text': 'Reading a Book', 'time': 20, 'timeunit': 'min'},
+  {'text': 'Journaling', 'time': 15, 'timeunit': 'min'},
+  {'text': 'Drink Water Reminder', 'time': 2, 'timeunit': 'min'},
+  {'text': 'Meal Prep', 'time': 60, 'timeunit': 'min'},
+  {'text': 'Evening Walk', 'time': 20, 'timeunit': 'min'},
+  {'text': 'Bodyweight Exercises', 'time': 25, 'timeunit': 'min'},
+  {'text': 'Dancing Session', 'time': 30, 'timeunit': 'min'},
+];
